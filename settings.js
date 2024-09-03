@@ -2,13 +2,9 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 module.exports = {
-  SESSION_ID: '✅ Process Success Daham Your SESSION_ID is,
-
-✅ Process Success DAHAM Your SESSION_ID is,
+  SESSION_ID: '✅ Process Success DAHAM Your SESSION_ID is,
 
 QUEENELISA;;;==wdQt0V5cXT5kWUNJEUNF0VWdVd1NVaNp2T5oGVzIGUppHZPJka6pULjlFTjMlcSV1V4o1Ypwd=15575150749
-
-© ELISACODERS
 
 © ELISACODERS',
   ALIVE_REACT: '👋',
